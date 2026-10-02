@@ -1,6 +1,6 @@
 Zyphor OS 1 Legacy Official Release Repository
 
-Source Forge: https://sourceforge.net/projects/zyphor-os-2-ada-lovelace/
+Source Forge: https://sourceforge.net/projects/zyphor-os-1-legacy/
 
 Mirror Downloads:
 
